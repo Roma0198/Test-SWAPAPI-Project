@@ -19,3 +19,7 @@ npm start
 ## Step 2: Start your Application
 
 You can start application by Xcode or Android Studio
+
+For Android you need:
+ - last version Android Studio
+ - JDK 17
