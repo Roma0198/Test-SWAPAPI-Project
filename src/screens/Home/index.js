@@ -174,7 +174,6 @@ export const styles = StyleSheet.create({
   itemBox: {
     padding: 16,
     width: '100%',
-    // height: 50,
     borderWidth: 1,
     borderRadius: 10,
     borderColor: colors.SECOND,
