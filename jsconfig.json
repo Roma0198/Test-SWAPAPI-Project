@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@screens/*": ["./src/screens/*"],
+      "@components/*": ["./src/components/*"],
+      "@extra/*": ["./src/extra/*"],
+      "@stores/*": ["./src/stores/*"],
+      "@router/*": ["./src/router/*"],
+      "@assets/*": ["./src/assets/*"],
+      "@api/*": ["./src/api/*"]
+    },
+    "module": "commonJS"
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "android", "ios", ".bundle", "__tests__"]
+}
