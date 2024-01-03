@@ -21,5 +21,5 @@ npm start
 You can start application by Xcode or Android Studio
 
 For Android you need:
- - last version Android Studio
+ - last version Android Studio (or ```use npx react-native run-android```)
  - JDK 17
